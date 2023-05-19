@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>L'AUTOMOBILE</title>
+    <title>LAMOTO</title>
     <link rel="stylesheet" href="stylee.css">
 </head>
 
@@ -11,81 +11,21 @@
 
     <header>
         <div>
-            <p> <span>L'</span>AUTOMOBILE</p>
+            <p> <span>LA</span>MOTO</p>
         </div>
-
-        
 
     </header>
     <section id="home">
         <div class="left">
-            <h1>Louer <span>votre vehicule</span> moins cher chez nous</h1>
+            <h1>Louer <span>votre motos</span> moins cher chez nous</h1>
             <p>
                 Bienvenue chez L'AUTOMOBILE, votre spécialiste de la locations de vehicules de qualité.
                 Louer le vehicule de vos rêves chez L'AUTOMOBILE.
-                Découvrez notre large sélection de vehicules d'occasion et neuves, toutes inspectées et garanties.
+                Découvrez notre large sélection de motos d'occasion et neuves, toutes inspectées et garanties.
             </p>
         </div>
         <div class="right">
             <img src="imagesMotos/icone.png" alt="">
-        </div>
-    </section>
-
-    <!--section berlines-->
-    <section id="cars">
-        <h1 class="section_title">Nos berlines</h1>
-        <div class="images">
-            <ul>
-                <li class="car">
-                    <div>
-                        <img src="imagesBerlines/benzc-220.jpg" alt="">
-                    </div>
-                    <span>MERCEDES BENZ C 220</span>
-                    <span class="prix">28 000FCFA/semaine</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-                <li class="car">
-                    <div>
-                        <img src="imagesBerlines/benzc-300.jpeg" alt="">
-                    </div>
-                    <span>MERCEDES BENZ C 300</span>
-                    <span class="prix">32 000FCFA/semaine</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-                <li class="car">
-                    <div>
-                        <img src="imagesBerlines/mercedes.jpg" alt="">
-                    </div>
-                    <span>MERCEDES</span>
-                    <span class="prix">15 000FCFA/semaine</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-                <li class="car">
-                    <div>
-                        <img src="imagesBerlines/avensis2004.jpeg" alt="">
-                    </div>
-                    <span>TOYOTA AVENSIS 2004</span>
-                    <span class="prix">20 000FCFA/semaine</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-                <li class="car">
-                    <div>
-                        <img src="imagesBerlines/avensis2003.jpg" alt="">
-                    </div>
-                    <span>TOYOTA AVENSIS 2003</span>
-                    <span class="prix">20 000FCFA/semaine</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-                <li class="car">
-                    <div>
-                        <img src="imagesBerlines/kia.jpeg" alt="">
-                    </div>
-                    <span>KIA STINGER GT 2019</span>
-                    <span class="prix">65 000FCFA/semaine</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-
-            </ul>
         </div>
     </section>
 
@@ -194,103 +134,6 @@
         </div>
     </section>
 
-    <!-- section suv-->
-    <section id="cars">
-        <h1 class="section_title">Nos voitures</h1>
-        <div class="images">
-            <ul>
-                <li class="car">
-                    <div>
-                        <img src="imagesVoitures/landcruiser.jpeg" alt="">
-                    </div>
-                    <span>LAND CRUISER</span>
-                    <span class="prix">50 000FCFA/h</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-                <li class="car">
-                    <div>
-                        <img src="imagesVoitures/landroverdis.jpeg" alt="">
-                    </div>
-                    <span>LAND ROVES DISCOVERY</span>
-                    <span class="prix">60 000FCFA/h</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-                <li class="car">
-                    <div>
-                        <img src="imagesVoitures/prado.jpeg" alt="">
-                    </div>
-                    <span>PRADO</span>
-                    <span class="prix">45 000FCFA/h</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-                <li class="car">
-                    <div>
-                        <img src="imagesVoitures/prado2012.jpeg" alt="">
-                    </div>
-                    <span>PRADO 2012</span>
-                    <span class="prix">50 000FCFA/h</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-                <li class="car">
-                    <div>
-                        <img src="imagesVoitures/prado2014.jpeg" alt="">
-                    </div>
-                    <span>PRADO 2014</span>
-                    <span class="prix">75 000FCFA/h</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-                <li class="car">
-                    <div>
-                        <img src="imagesVoitures/range2007.jpeg" alt="">
-                    </div>
-                    <span>RANGE ROVER 2007</span>
-                    <span class="prix">70 000FCFA/h</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-                <li class="car">
-                    <div>
-                        <img src="imagesVoitures/rangeevoque2012.png" alt="">
-                    </div>
-                    <span>RANGE ROVER EVOQUE 2012</span>
-                    <span class="prix">55 000FCFA/h</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-                <li class="car">
-                    <div>
-                        <img src="imagesVoitures/hilux2011.jpeg" alt="">
-                    </div>
-                    <span>TOYOTA HILUX 2011</span>
-                    <span class="prix">42 000FCFA/h</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-                <li class="car">
-                    <div>
-                        <img src="imagesVoitures/hilux2012.webp" alt="">
-                    </div>
-                    <span>TOYOTA HILUX 2012</span>
-                    <span class="prix">42 000FCFA/h</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-                <li class="car">
-                    <div>
-                        <img src="imagesVoitures/rav42008.jpeg" alt="">
-                    </div>
-                    <span>TOYOTA RAV4 2008</span>
-                    <span class="prix">30 000FCFA/h</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-                <li class="car">
-                    <div>
-                        <img src="imagesVoitures/rav42020.jpeg" alt="">
-                    </div>
-                    <span>TOYOTA RAV4 2020</span>
-                    <span class="prix">45 000FCFA/h</span>
-                    <a href="#">LOUER MAINTENANT</a>
-                </li>
-            </ul>
-        </div>
-    </section>
-
     <!-- section services -->
     <section id="services">
         <h1 class="section_title">A PROPOS </h1>
@@ -329,7 +172,6 @@
         </div>
     </section>
 
-
     <!-- section contact -->
 
     <section id="contact">
@@ -350,7 +192,7 @@
                     <textarea name="" id="" cols="30" rows="10" placeholder="Message"></textarea>
                     <input type="submit" value="Envoyer">
                 </form>
-                
+
             </div>
         </div>
     </section>
